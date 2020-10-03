@@ -1,15 +1,9 @@
-### http://zetcode.com/gulp/sass/
-
-1.  
+### Running + liveload
 ```
-$ npm init -y 
-$ npm i --global gulp-cli
-$ npm i gulp --save-dev
+$ npm run build
 ```
 
-2.  
-$ npm i --save-dev gulp-sass
-$ npm i --save-dev del
-
-3.  
-$ gulp
+### REF
+1.  https://gulpjs.com/docs/en/api/concepts
+2.  https://www.npmjs.com/package/gulp-sass
+3.  http://zetcode.com/gulp/sass/
